@@ -15,7 +15,7 @@
   "scan_your_barcode": "Vonalkód beolvasása",
   "use_this_serial_number": "Széria szám használata",
   "device_serial_input_mobile": "Széria szám megadása kézzel",
-  "device_serial_input_web": "{{deviceName}} széira szám",
+  "device_serial_input_web": "{{deviceName}} széria szám",
   "scan_barcode": "Vonalkód beolvasása",
   "serial_input_options": "A széria számot 2 módon adhatod meg",
   "device_serial_number_needed": "A kezdéshez szükség lesz a(z) {{deviceName}} széria számára",
